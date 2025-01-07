@@ -28,10 +28,19 @@
   <a href="https://t.me/dazhixiansheng">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+</p>
+
+<details>
+<summary>🎁 欢迎打赏支持开发者</summary>
+<br>
+<p>
+  如果我的项目对你有帮助，欢迎通过 PayPal 支持我继续开发和维护 ❤️
+  <br><br>
   <a href="https://paypal.me/dazhixiansheng">
-    <img src="https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PayPal 打赏-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
+</details>
 
 ### 🌈 Visitor Count
 
