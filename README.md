@@ -20,36 +20,18 @@
 
 ### 📊 GitHub Stats
 
-[![DAzhi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MR-DAzhi&show_icons=true&theme=tokyonight)](https://github.com/MR-DAzhi)
+[![DAzhi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MR-DAzhi&show_icons=true&theme=default&bg_color=ffffff)](https://github.com/MR-DAzhi)
 
-### 🌟 Featured Project
-
-<a href="https://github.com/MR-DAzhi/sing-box-subscribe">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MR-DAzhi&repo=sing-box-subscribe&theme=tokyonight" />
-</a>
-
-### 🎯 Current Focus
-
-- 🚀 维护和开发 sing-box-subscribe 项目
-- 🌐 网络工具开发
-- 🔧 Python 后端开发
-- 🐳 Docker 容器化部署
-
-### 📫 Contact Me
+### 📫 Contact & Support
 
 <p>
   <a href="https://t.me/dazhixiansheng">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://paypal.me/dazhixiansheng">
+    <img src="https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
 </p>
-
-### 💻 Core Skills
-
-- Python 开发
-- Docker 容器化
-- Web 服务部署
-- 网络工具开发
-- API 设计与实现
 
 ### 🌈 Visitor Count
 
