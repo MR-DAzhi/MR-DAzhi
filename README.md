@@ -20,9 +20,9 @@
 
 ### 📊 GitHub Stats
 
-[![DAzhi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MR-DAzhi&show_icons=true&theme=default&bg_color=ffffff)](https://github.com/MR-DAzhi)
+[![DAzhi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MR-DAzhi&show_icons=true&theme=default&bg_color=ffffff&hide_border=true)](https://github.com/MR-DAzhi)
 
-### 📫 Contact & Support
+### 📫 Contact Me
 
 <p>
   <a href="https://t.me/dazhixiansheng">
@@ -30,17 +30,19 @@
   </a>
 </p>
 
-<details>
-<summary>🎁 欢迎打赏支持开发者</summary>
-<br>
+<h3>打赏支持 ❤️</h3>
+
+<p>如果我的项目对你有帮助，欢迎打赏支持！</p>
+
 <p>
-  如果我的项目对你有帮助，欢迎通过 PayPal 支持我继续开发和维护 ❤️
-  <br><br>
   <a href="https://paypal.me/dazhixiansheng">
-    <img src="https://img.shields.io/badge/-PayPal 打赏-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
-</details>
+
+<p align="center">
+<img src="https://github.4240333.xyz/https://raw.githubusercontent.com/MR-DAzhi/MR-DAzhi/main/pictures/IMG_0769.jpeg" width="250"/>
+</p>
 
 ### 🌈 Visitor Count
 
