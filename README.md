@@ -22,7 +22,7 @@
 
 [![DAzhi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MR-DAzhi&show_icons=true&theme=default&bg_color=ffffff&hide_border=true)](https://github.com/MR-DAzhi)
 
-### 📫 Contact Me
+### 📫 联系我
 
 <p>
   <a href="https://t.me/dazhixiansheng">
