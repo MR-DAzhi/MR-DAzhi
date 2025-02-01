@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello World, I'm DAzhi
+# 👋 Hello World, I'm DAZHI
 
 <p>
   <a href="https://github.com/MR-DAzhi"><img src="https://img.shields.io/github/followers/MR-DAzhi?label=Followers&style=social" alt="GitHub followers"></a>
