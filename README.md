@@ -18,9 +18,6 @@
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-[![DAzhi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MR-DAzhi&show_icons=true&theme=default&bg_color=ffffff&hide_border=true)](https://github.com/MR-DAzhi)
 
 ### 📫 联系我
 
@@ -46,6 +43,5 @@
 
 ### 🌈 Visitor Count
 
-<img src="https://profile-counter.glitch.me/MR-DAzhi/count.svg" alt="访问统计" />
 
 </div>
