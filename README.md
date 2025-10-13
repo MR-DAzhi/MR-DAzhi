@@ -3,8 +3,12 @@
 # 👋 Hello, everyone, I'm DAZHI
 
 <p>
-  <a href="https://github.com/MR-DAzhi"><img src="https://img.shields.io/github/followers/MR-DAzhi?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="https://t.me/dazhixiansheng"><img src="https://img.shields.io/badge/Telegram-大智先生-blue?style=flat&logo=telegram" alt="Telegram"></a>
+  <a href="https://github.com/MR-DAzhi">
+    <img src="https://img.shields.io/github/followers/MR-DAzhi?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://t.me/dazhixiansheng">
+    <img src="https://img.shields.io/badge/Telegram-大智先生-blue?style=flat&logo=telegram" alt="Telegram">
+  </a>
   <img src="https://img.shields.io/badge/Focus-Network_Tools-blue" />
 </p>
 
@@ -17,7 +21,6 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
-
 
 ### 📫 联系我
 
@@ -38,10 +41,13 @@
 </p>
 
 <p align="center">
-<img src="https://github.4240333.xyz/https://raw.githubusercontent.com/MR-DAzhi/MR-DAzhi/main/pictures/IMG_0769.jpeg" width="250"/>
+  <img src="https://raw.githubusercontent.com/MR-DAzhi/MR-DAzhi/refs/heads/main/pictures/IMG_0770.jpeg" width="250" alt="profile picture" />
 </p>
 
 ### 🌈 Visitor Count
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MR-DAzhi&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 
 </div>
