@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MR-DAzhi/MR-DAzhi/refs/heads/main/pictures/IMG_6338.jpeg" width="250" alt="profile picture" />
+  <img src="https://raw.githubusercontent.com/MR-DAzhi/MR-DAzhi/refs/heads/main/pictures/IMG_6388.jpeg" width="250" alt="profile picture" />
 </p>
 
 ### 🌈 Visitor Count
